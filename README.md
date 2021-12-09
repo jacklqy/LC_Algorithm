@@ -1,2 +1,3 @@
 # LC_Algorithm
 常见算法讲解。比如：二分查找算法(非递归和递归)、分治问题、动态规划算法、KMP算法(字符串匹配问题)、贪心算法、普里姆算法等...
+![image](https://user-images.githubusercontent.com/26539681/145364692-ca184743-13bb-4ec8-9b17-b2b2d68ae16a.png)
