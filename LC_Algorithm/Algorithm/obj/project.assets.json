@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\LC_Algorithm\\Algorithm\\Algorithm.csproj",
+      "projectUniqueName": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\Algorithm.csproj",
       "projectName": "Algorithm",
-      "projectPath": "E:\\LC_Algorithm\\Algorithm\\Algorithm.csproj",
+      "projectPath": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\Algorithm.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\LC_Algorithm\\Algorithm\\obj\\",
+      "outputPath": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

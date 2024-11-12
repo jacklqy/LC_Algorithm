@@ -1,0 +1,528 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|e:\\lc_algorithm\\lc_algorithm\\algorithm\\1.\u7B80\u5355\\6.\u6570\u7EC4\u91CC\u5E38\u89C1\u7684\u4E24\u7C7B\u7B97\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|solutionrelative:1.\u7B80\u5355\\6.\u6570\u7EC4\u91CC\u5E38\u89C1\u7684\u4E24\u7C7B\u7B97\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|e:\\lc_algorithm\\lc_algorithm\\algorithm\\1.\u7B80\u5355\\7.\u94FE\u8868\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|solutionrelative:1.\u7B80\u5355\\7.\u94FE\u8868\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|e:\\lc_algorithm\\lc_algorithm\\algorithm\\1.\u7B80\u5355\\8.\u6808\u4E0E\u961F\u5217\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|solutionrelative:1.\u7B80\u5355\\8.\u6808\u4E0E\u961F\u5217\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|e:\\lc_algorithm\\lc_algorithm\\algorithm\\1.\u7B80\u5355\\9.\u4F18\u5148\u961F\u5217\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|solutionrelative:1.\u7B80\u5355\\9.\u4F18\u5148\u961F\u5217\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|e:\\lc_algorithm\\lc_algorithm\\algorithm\\startalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|solutionrelative:startalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|e:\\lc_algorithm\\lc_algorithm\\algorithm\\1.\u7B80\u5355\\10.\u67E5\u5E76\u96C6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|solutionrelative:1.\u7B80\u5355\\10.\u67E5\u5E76\u96C6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|e:\\lc_algorithm\\lc_algorithm\\algorithm\\1.\u7B80\u5355\\11.\u4E8C\u53C9\u6811\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|solutionrelative:1.\u7B80\u5355\\11.\u4E8C\u53C9\u6811\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|e:\\lc_algorithm\\lc_algorithm\\algorithm\\1.\u7B80\u5355\\1.\u7B97\u6CD5\u7B80\u4ECB\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|solutionrelative:1.\u7B80\u5355\\1.\u7B97\u6CD5\u7B80\u4ECB\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|e:\\lc_algorithm\\lc_algorithm\\algorithm\\1.\u7B80\u5355\\2.\u4E8C\u5206\u67E5\u627E\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|solutionrelative:1.\u7B80\u5355\\2.\u4E8C\u5206\u67E5\u627E\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|e:\\lc_algorithm\\lc_algorithm\\algorithm\\1.\u7B80\u5355\\12.\u56DE\u6EAF\u7B97\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|solutionrelative:1.\u7B80\u5355\\12.\u56DE\u6EAF\u7B97\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|e:\\lc_algorithm\\lc_algorithm\\algorithm\\1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u533A\u95F4\u8C03\u5EA6\u95EE\u9898\\intervalscheduling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|solutionrelative:1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u533A\u95F4\u8C03\u5EA6\u95EE\u9898\\intervalscheduling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|e:\\lc_algorithm\\lc_algorithm\\algorithm\\1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|solutionrelative:1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|e:\\lc_algorithm\\lc_algorithm\\algorithm\\1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u533A\u95F4\u5206\u7EC4\u95EE\u9898\\groupintervals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|solutionrelative:1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u533A\u95F4\u5206\u7EC4\u95EE\u9898\\groupintervals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|e:\\lc_algorithm\\lc_algorithm\\algorithm\\1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u88C5\u7BB1\u95EE\u9898\\binpackingproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|solutionrelative:1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u88C5\u7BB1\u95EE\u9898\\binpackingproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|e:\\lc_algorithm\\lc_algorithm\\algorithm\\1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u80CC\u5305\u95EE\u9898\\knapsackproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|solutionrelative:1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u80CC\u5305\u95EE\u9898\\knapsackproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|e:\\lc_algorithm\\lc_algorithm\\algorithm\\1.\u7B80\u5355\\13.\u52A8\u6001\u89C4\u5212\\\u8303\u56F4\u67E5\u8BE2\u95EE\u9898\\rangequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|solutionrelative:1.\u7B80\u5355\\13.\u52A8\u6001\u89C4\u5212\\\u8303\u56F4\u67E5\u8BE2\u95EE\u9898\\rangequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|e:\\lc_algorithm\\lc_algorithm\\algorithm\\1.\u7B80\u5355\\13.\u52A8\u6001\u89C4\u5212\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|solutionrelative:1.\u7B80\u5355\\13.\u52A8\u6001\u89C4\u5212\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|e:\\lc_algorithm\\lc_algorithm\\algorithm\\1.\u7B80\u5355\\13.\u52A8\u6001\u89C4\u5212\\\u80CC\u5305\u95EE\u9898\\knapsackproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|solutionrelative:1.\u7B80\u5355\\13.\u52A8\u6001\u89C4\u5212\\\u80CC\u5305\u95EE\u9898\\knapsackproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|e:\\lc_algorithm\\lc_algorithm\\algorithm\\1.\u7B80\u5355\\4.\u9AD8\u7EA7\u6392\u5E8F\u7B97\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|solutionrelative:1.\u7B80\u5355\\4.\u9AD8\u7EA7\u6392\u5E8F\u7B97\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|e:\\lc_algorithm\\lc_algorithm\\algorithm\\1.\u7B80\u5355\\5.\u975E\u6BD4\u8F83\u6392\u5E8F\u7B97\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|solutionrelative:1.\u7B80\u5355\\5.\u975E\u6BD4\u8F83\u6392\u5E8F\u7B97\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|e:\\lc_algorithm\\lc_algorithm\\algorithm\\1.\u7B80\u5355\\3.\u57FA\u7840\u6392\u5E8F\u7B97\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4497FEE8-7477-41FD-BBA3-229D902332D1}|Algorithm.csproj|solutionrelative:1.\u7B80\u5355\\3.\u57FA\u7840\u6392\u5E8F\u7B97\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 48,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartAlgorithm.cs",
+              "DocumentMoniker": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\StartAlgorithm.cs",
+              "RelativeDocumentMoniker": "StartAlgorithm.cs",
+              "ToolTip": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\StartAlgorithm.cs",
+              "RelativeToolTip": "StartAlgorithm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:20:57.886Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IntervalScheduling.cs",
+              "DocumentMoniker": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u533A\u95F4\u8C03\u5EA6\u95EE\u9898\\IntervalScheduling.cs",
+              "RelativeDocumentMoniker": "1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u533A\u95F4\u8C03\u5EA6\u95EE\u9898\\IntervalScheduling.cs",
+              "ToolTip": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u533A\u95F4\u8C03\u5EA6\u95EE\u9898\\IntervalScheduling.cs",
+              "RelativeToolTip": "1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u533A\u95F4\u8C03\u5EA6\u95EE\u9898\\IntervalScheduling.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:17:01.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\10.\u67E5\u5E76\u96C6\\Program.cs",
+              "RelativeDocumentMoniker": "1.\u7B80\u5355\\10.\u67E5\u5E76\u96C6\\Program.cs",
+              "ToolTip": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\10.\u67E5\u5E76\u96C6\\Program.cs",
+              "RelativeToolTip": "1.\u7B80\u5355\\10.\u67E5\u5E76\u96C6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:26:28.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\12.\u56DE\u6EAF\u7B97\u6CD5\\Program.cs",
+              "RelativeDocumentMoniker": "1.\u7B80\u5355\\12.\u56DE\u6EAF\u7B97\u6CD5\\Program.cs",
+              "ToolTip": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\12.\u56DE\u6EAF\u7B97\u6CD5\\Program.cs",
+              "RelativeToolTip": "1.\u7B80\u5355\\12.\u56DE\u6EAF\u7B97\u6CD5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:13:07.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\2.\u4E8C\u5206\u67E5\u627E\\Program.cs",
+              "RelativeDocumentMoniker": "1.\u7B80\u5355\\2.\u4E8C\u5206\u67E5\u627E\\Program.cs",
+              "ToolTip": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\2.\u4E8C\u5206\u67E5\u627E\\Program.cs",
+              "RelativeToolTip": "1.\u7B80\u5355\\2.\u4E8C\u5206\u67E5\u627E\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:26:04.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\1.\u7B97\u6CD5\u7B80\u4ECB\\Program.cs",
+              "RelativeDocumentMoniker": "1.\u7B80\u5355\\1.\u7B97\u6CD5\u7B80\u4ECB\\Program.cs",
+              "ToolTip": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\1.\u7B97\u6CD5\u7B80\u4ECB\\Program.cs",
+              "RelativeToolTip": "1.\u7B80\u5355\\1.\u7B97\u6CD5\u7B80\u4ECB\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:26:22.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\11.\u4E8C\u53C9\u6811\\Program.cs",
+              "RelativeDocumentMoniker": "1.\u7B80\u5355\\11.\u4E8C\u53C9\u6811\\Program.cs",
+              "ToolTip": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\11.\u4E8C\u53C9\u6811\\Program.cs",
+              "RelativeToolTip": "1.\u7B80\u5355\\11.\u4E8C\u53C9\u6811\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:52:14.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\9.\u4F18\u5148\u961F\u5217\\Program.cs",
+              "RelativeDocumentMoniker": "1.\u7B80\u5355\\9.\u4F18\u5148\u961F\u5217\\Program.cs",
+              "ToolTip": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\9.\u4F18\u5148\u961F\u5217\\Program.cs",
+              "RelativeToolTip": "1.\u7B80\u5355\\9.\u4F18\u5148\u961F\u5217\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAFcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:27:21.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\8.\u6808\u4E0E\u961F\u5217\\Program.cs",
+              "RelativeDocumentMoniker": "1.\u7B80\u5355\\8.\u6808\u4E0E\u961F\u5217\\Program.cs",
+              "ToolTip": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\8.\u6808\u4E0E\u961F\u5217\\Program.cs",
+              "RelativeToolTip": "1.\u7B80\u5355\\8.\u6808\u4E0E\u961F\u5217\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:27:15.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\7.\u94FE\u8868\\Program.cs",
+              "RelativeDocumentMoniker": "1.\u7B80\u5355\\7.\u94FE\u8868\\Program.cs",
+              "ToolTip": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\7.\u94FE\u8868\\Program.cs",
+              "RelativeToolTip": "1.\u7B80\u5355\\7.\u94FE\u8868\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:27:09.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\6.\u6570\u7EC4\u91CC\u5E38\u89C1\u7684\u4E24\u7C7B\u7B97\u6CD5\\Program.cs",
+              "RelativeDocumentMoniker": "1.\u7B80\u5355\\6.\u6570\u7EC4\u91CC\u5E38\u89C1\u7684\u4E24\u7C7B\u7B97\u6CD5\\Program.cs",
+              "ToolTip": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\6.\u6570\u7EC4\u91CC\u5E38\u89C1\u7684\u4E24\u7C7B\u7B97\u6CD5\\Program.cs",
+              "RelativeToolTip": "1.\u7B80\u5355\\6.\u6570\u7EC4\u91CC\u5E38\u89C1\u7684\u4E24\u7C7B\u7B97\u6CD5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:27:03.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\Program.cs",
+              "RelativeDocumentMoniker": "1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\Program.cs",
+              "ToolTip": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\Program.cs",
+              "RelativeToolTip": "1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:15:54.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GroupIntervals.cs",
+              "DocumentMoniker": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u533A\u95F4\u5206\u7EC4\u95EE\u9898\\GroupIntervals.cs",
+              "RelativeDocumentMoniker": "1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u533A\u95F4\u5206\u7EC4\u95EE\u9898\\GroupIntervals.cs",
+              "ToolTip": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u533A\u95F4\u5206\u7EC4\u95EE\u9898\\GroupIntervals.cs",
+              "RelativeToolTip": "1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u533A\u95F4\u5206\u7EC4\u95EE\u9898\\GroupIntervals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:20:51.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BinPackingProblem.cs",
+              "DocumentMoniker": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u88C5\u7BB1\u95EE\u9898\\BinPackingProblem.cs",
+              "RelativeDocumentMoniker": "1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u88C5\u7BB1\u95EE\u9898\\BinPackingProblem.cs",
+              "ToolTip": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u88C5\u7BB1\u95EE\u9898\\BinPackingProblem.cs",
+              "RelativeToolTip": "1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u88C5\u7BB1\u95EE\u9898\\BinPackingProblem.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:19:18.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KnapsackProblem.cs",
+              "DocumentMoniker": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u80CC\u5305\u95EE\u9898\\KnapsackProblem.cs",
+              "RelativeDocumentMoniker": "1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u80CC\u5305\u95EE\u9898\\KnapsackProblem.cs",
+              "ToolTip": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u80CC\u5305\u95EE\u9898\\KnapsackProblem.cs",
+              "RelativeToolTip": "1.\u7B80\u5355\\14.\u8D2A\u5FC3\u7B97\u6CD5\\\u80CC\u5305\u95EE\u9898\\KnapsackProblem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:15:43.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RangeQuery.cs",
+              "DocumentMoniker": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\13.\u52A8\u6001\u89C4\u5212\\\u8303\u56F4\u67E5\u8BE2\u95EE\u9898\\RangeQuery.cs",
+              "RelativeDocumentMoniker": "1.\u7B80\u5355\\13.\u52A8\u6001\u89C4\u5212\\\u8303\u56F4\u67E5\u8BE2\u95EE\u9898\\RangeQuery.cs",
+              "ToolTip": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\13.\u52A8\u6001\u89C4\u5212\\\u8303\u56F4\u67E5\u8BE2\u95EE\u9898\\RangeQuery.cs",
+              "RelativeToolTip": "1.\u7B80\u5355\\13.\u52A8\u6001\u89C4\u5212\\\u8303\u56F4\u67E5\u8BE2\u95EE\u9898\\RangeQuery.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwEEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:13:20.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KnapsackProblem.cs",
+              "DocumentMoniker": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\13.\u52A8\u6001\u89C4\u5212\\\u80CC\u5305\u95EE\u9898\\KnapsackProblem.cs",
+              "RelativeDocumentMoniker": "1.\u7B80\u5355\\13.\u52A8\u6001\u89C4\u5212\\\u80CC\u5305\u95EE\u9898\\KnapsackProblem.cs",
+              "ToolTip": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\13.\u52A8\u6001\u89C4\u5212\\\u80CC\u5305\u95EE\u9898\\KnapsackProblem.cs",
+              "RelativeToolTip": "1.\u7B80\u5355\\13.\u52A8\u6001\u89C4\u5212\\\u80CC\u5305\u95EE\u9898\\KnapsackProblem.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T05:54:08.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\13.\u52A8\u6001\u89C4\u5212\\Program.cs",
+              "RelativeDocumentMoniker": "1.\u7B80\u5355\\13.\u52A8\u6001\u89C4\u5212\\Program.cs",
+              "ToolTip": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\13.\u52A8\u6001\u89C4\u5212\\Program.cs",
+              "RelativeToolTip": "1.\u7B80\u5355\\13.\u52A8\u6001\u89C4\u5212\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:15:48.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\5.\u975E\u6BD4\u8F83\u6392\u5E8F\u7B97\u6CD5\\Program.cs",
+              "RelativeDocumentMoniker": "1.\u7B80\u5355\\5.\u975E\u6BD4\u8F83\u6392\u5E8F\u7B97\u6CD5\\Program.cs",
+              "ToolTip": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\5.\u975E\u6BD4\u8F83\u6392\u5E8F\u7B97\u6CD5\\Program.cs",
+              "RelativeToolTip": "1.\u7B80\u5355\\5.\u975E\u6BD4\u8F83\u6392\u5E8F\u7B97\u6CD5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:26:55.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\4.\u9AD8\u7EA7\u6392\u5E8F\u7B97\u6CD5\\Program.cs",
+              "RelativeDocumentMoniker": "1.\u7B80\u5355\\4.\u9AD8\u7EA7\u6392\u5E8F\u7B97\u6CD5\\Program.cs",
+              "ToolTip": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\4.\u9AD8\u7EA7\u6392\u5E8F\u7B97\u6CD5\\Program.cs",
+              "RelativeToolTip": "1.\u7B80\u5355\\4.\u9AD8\u7EA7\u6392\u5E8F\u7B97\u6CD5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:26:48.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\3.\u57FA\u7840\u6392\u5E8F\u7B97\u6CD5\\Program.cs",
+              "RelativeDocumentMoniker": "1.\u7B80\u5355\\3.\u57FA\u7840\u6392\u5E8F\u7B97\u6CD5\\Program.cs",
+              "ToolTip": "E:\\LC_Algorithm\\LC_Algorithm\\Algorithm\\1.\u7B80\u5355\\3.\u57FA\u7840\u6392\u5E8F\u7B97\u6CD5\\Program.cs",
+              "RelativeToolTip": "1.\u7B80\u5355\\3.\u57FA\u7840\u6392\u5E8F\u7B97\u6CD5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:26:42.66Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
